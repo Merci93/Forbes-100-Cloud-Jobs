@@ -1,5 +1,5 @@
 # Forbes_100_Cloud_Jobs
-Scraping the career pages of Forbes 100 Cloud startups for job openings and exporting to Airtable database. Each script is developed to scrape the career page of the designated company, saves the data as a CSV file in the job directory, and uploaded into airtable via API.
+Scraping the career pages of [Forbes 100 Cloud](https://www.forbes.com/lists/cloud100/?sh=63ba91fb7d9c) list of the world's top private cloud companies for job openings and exporting to Airtable database. Each script is developed to scrape the career page of the designated company, saves the data as a CSV file in the job directory, and uploaded into airtable via API.
 
 # Approach
 The `run.py` script calls the `import_scrape_scripts.py` which calls the individual script files to scrape the career page. Each function call is enclosed in a `try - except` to catch and display any exception for a script that breaks during execution. The scraped jobs are concatenated into a single file `All_Job_Files.csv`. The concatenated job file is uploaded to Airtable database via API.
