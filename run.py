@@ -7,7 +7,7 @@ from pyairtable import Table, Api
 
 # API token
 # Replace this with the token created for the main account.
-api_token = 'patHzKgEMvKggtK3T.a3b5d7d88657a0829d0b0dfc2229b18e3fbda1e3a72fb5965108040aab282095'
+api_token = 'Add API token'
 
 # Import and run scripts
 from import_scrape_scripts import run_scripts
