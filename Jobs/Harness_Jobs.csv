@@ -1,34 +1,32 @@
 Company,Role,Team,Location,Job_URL
-Harness,Senior Technical Customer Success Manager,Customer Success Management,Boston,https://jobs.lever.co/harness/63eb6242-418e-48b6-8d5a-3324685f462d
-Harness,Senior People Business Partner (GTM),Admin/Business Operations,San Francisco,https://jobs.lever.co/harness/3ad0f131-d23a-4952-aa1e-633cada23d8a
 Harness,Marketing Operations Manager,Marketing Operations,United States - Remote,https://jobs.lever.co/harness/19585009-07e5-48d5-baef-68b608aeb91b
 Harness,Senior Product Marketing Manager / Director,Product Marketing,San Francisco,https://jobs.lever.co/harness/7a80d31a-67e0-498a-b1a2-7c5530545c15
 Harness,Technical Lead -  Customer Experience,Customer Support,Dallas,https://jobs.lever.co/harness/38332395-9ece-4328-855d-e9cd07ce01bb
 Harness,Principal Backend Engineer,Engineering - Dev & QA,Bangalore,https://jobs.lever.co/harness/7b1a10cc-d2fb-41f8-b8b4-25a9c5ef892e
 Harness,Principal Software Engineer,Engineering - Dev & QA,Mountain View,https://jobs.lever.co/harness/6fde49de-c98d-480c-8718-34ad83f6514c
-Harness,Principal Software Engineer - Test,Engineering - Dev & QA,Bangalore,https://jobs.lever.co/harness/3a81c60e-0d20-47b6-94a3-c9f0f36b86ec
 Harness,Senior Database Reliability Engineer,Engineering - Dev & QA,Mountain View,https://jobs.lever.co/harness/263aa50f-69ce-408e-a577-9049bb69c15f
 Harness,"Senior Manager, Platform Engineering",Engineering - Dev & QA,Bangalore,https://jobs.lever.co/harness/f0a792ed-730f-4315-9285-c9c533697359
+Harness,Senior Software Engineer - Backend,Engineering - Dev & QA,Bangalore,https://jobs.lever.co/harness/39483804-5822-41b7-92e7-65305550c77c
+Harness,Senior Software Engineer - Platform,Engineering - Dev & QA,Mountain View,https://jobs.lever.co/harness/aa6d8ecf-8779-4b0d-bc15-b865fe9d0176
 Harness,Software Engineer- Community,Engineering - Dev & QA,Bangalore,https://jobs.lever.co/harness/371d9d86-1cd1-490b-8e8c-352257c20643
-Harness,Staff Software Engineer,Engineering - Dev & QA,Mountain View,https://jobs.lever.co/harness/56fa451e-10c5-414e-8d4b-c0f56b02f68f
+Harness,Staff Software Engineer,Engineering - Dev & QA,Bangalore,https://jobs.lever.co/harness/da730d66-97d0-4610-9daf-fd09d053efa9
 Harness,Staff Software Engineer - Backend,Engineering - Dev & QA,Bangalore,https://jobs.lever.co/harness/b1665bba-303b-4dd9-8882-adef0ee0225e
 Harness,Staff Software Engineer C++,Engineering - Dev & QA,Bangalore,https://jobs.lever.co/harness/5d5ace29-3b93-4020-82b7-920fa44c5c5c
-Harness,"Director, Product Management - Continuous Delivery",Product & Design,Mountain View,https://jobs.lever.co/harness/3d955479-7f4c-4028-acbe-a1dc624fd79f
 Harness,Senior Marketing Designer,Product & Design,San Francisco,https://jobs.lever.co/harness/8f510e7d-e66b-4b56-9d08-8b5109fd1990
-Harness,"Senior Product Manager, DevSecOps",Product & Design,San Francisco,https://jobs.lever.co/harness/f7614f22-b4f2-44d7-b655-97d3d5c0f750
-Harness,"Senior Technical Program Manager, Certifications",Product & Design,San Francisco,https://jobs.lever.co/harness/5eb61d89-988e-4ed5-bd79-ee606627096c
 Harness,Staff Product Manager,Product & Design,Bangalore,https://jobs.lever.co/harness/a4257f6b-e7c9-4bac-9f19-c31a2b72c47d
+Harness,Staff Product Manager - Continuous Delivery,Product & Design,Mountain View,https://jobs.lever.co/harness/eecfe04a-fd7b-4ac2-bf08-f0b899399aba
+Harness,"Staff Product Manager, Platform Security",Product & Design,Mountain View,https://jobs.lever.co/harness/f7614f22-b4f2-44d7-b655-97d3d5c0f750
+Harness,Staff Technical Writer,Product & Design,United States - Remote,https://jobs.lever.co/harness/a2e71b4e-7ef7-4469-a9e0-e24aee300f49
 Harness,Security Engineering Internship,Security & Ops,Orlando,https://jobs.lever.co/harness/e8c2a7bb-4ff8-44d5-966e-4b86a9ab4d65
+Harness,Security Engineering Internship,Security & Ops,Bangalore,https://jobs.lever.co/harness/a50a9cd1-38d8-4757-81d1-723f6de45cff
 Harness,Site Reliability Engineer,Security & Ops,Dallas,https://jobs.lever.co/harness/93f8bc59-220c-463d-a758-3d5977052e4d
 Harness,"Partner Manager, EMEA",Business Development,London,https://jobs.lever.co/harness/8b9b3fe1-fcad-44ba-b59a-f7dc3173c970
-Harness,Regional Partner Manager,Business Development,Atlanta,https://jobs.lever.co/harness/9a5c82b0-acf9-4a4f-8c69-cfec39e7339d
-Harness,Senior Commercial Account Executive,Commercial Sales,San Francisco,https://jobs.lever.co/harness/2c77413f-4d9d-46e8-892d-e2a9353532a5
 Harness,Enterprise Sales Manager - Federal DoD,Field Sales,Washington DC,https://jobs.lever.co/harness/321f9bb1-537b-4518-b7a2-2ff07d9cc62c
 Harness,Large Enterprise Sales Manager - Boston,Field Sales,Boston,https://jobs.lever.co/harness/952d6ede-1334-40ef-9134-57d9019e0878
 Harness,"Large Enterprise Sales Manager - CO, UT, AZ",Field Sales,Denver,https://jobs.lever.co/harness/1e143cd5-60a8-4773-b274-b4641b9e33b7
 Harness,"Large Enterprise Sales Manager - KS, MN",Field Sales,Kansas City,https://jobs.lever.co/harness/947395cb-8b8e-4530-a37e-ca08053d4afa
 Harness,"Large Enterprise Sales Manager - NY, NJ, PA",Field Sales,New York City,https://jobs.lever.co/harness/6d53bec0-4194-4c02-b619-0adf36a40810
-Harness,Strategic Enterprise Sales Manager - Southeast,Field Sales,Atlanta,https://jobs.lever.co/harness/f93057eb-0c86-47d2-a49a-d7288d271755
+Harness,Business Value Consultant,Product Specialist,United States - Remote,https://jobs.lever.co/harness/7a43b994-c0a6-48d5-b9ae-9dcd4a4eaed0
 Harness,Commercial Sales Engineer,Sales Engineering,Dallas,https://jobs.lever.co/harness/6bea6ccf-9c59-47c7-81a3-b04b4b95d4c7
 Harness,"Director, Revenue Analytics",Sales Operations,United States - Remote,https://jobs.lever.co/harness/d6fa79a7-667e-4b30-ba8e-fa329e94505f
 Harness,Senior Salesforce Administrator,Sales Operations,San Francisco,https://jobs.lever.co/harness/573e1436-3975-4ffd-9888-f928220b54c2
